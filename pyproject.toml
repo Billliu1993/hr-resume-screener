@@ -6,6 +6,9 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "jupyterlab>=4.3.5",
+    "langchain-openai>=0.3.3",
+    "langgraph>=0.2.69",
+    "langsmith>=0.3.4",
     "pymupdf>=1.25.2",
     "python-dotenv>=1.0.1",
     "voyageai>=0.3.2",
